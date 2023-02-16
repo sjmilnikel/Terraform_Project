@@ -1,4 +1,4 @@
-# parent-module main.tf mod
+# parent-module main.tf
 
 module "my_aws_ec2" {
   source   = "./ec2_module"

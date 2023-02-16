@@ -1,4 +1,4 @@
-# parent-module providers.tf module
+# parent-module providers.tf
 
 terraform {
   required_providers {
@@ -15,3 +15,5 @@ provider "aws" {
   profile = "default"
   region  = "us-east-1"
 }
+
+

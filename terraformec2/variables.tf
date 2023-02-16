@@ -1,4 +1,4 @@
-# parent-module variables.tf module
+# parent-module variables.tf 
 
 variable "ami_id" {
   type    = string
